@@ -1,0 +1,6 @@
+nltk
+re
+bs4
+stanza
+-U scikit-learn
+lxml
