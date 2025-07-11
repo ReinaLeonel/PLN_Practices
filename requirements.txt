@@ -2,5 +2,5 @@ nltk
 re
 bs4
 stanza
--U scikit-learn
+scikit-learn
 lxml
